@@ -1,9 +1,9 @@
 const siteMeta = {
-  title: "Astro Theme Cactus",
-  description: "An opinionated starter theme for Astro",
+  title: "Sidratul Ahmed",
+  description: "Personal Blog",
   lang: "en-GB",
   ogLocale: "en_GB",
-  githubUrl: "https://github.com/chrismwilliams/astro-theme-cactus",
+  githubUrl: "https://github.com/sidmahmed",
   themeColorLight: "#fafafa",
   themeColorDark: "#1d1f21",
 }
