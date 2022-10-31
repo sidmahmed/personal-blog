@@ -11,7 +11,7 @@ const {
 	image,
 } = Astro.props as Props;
 
-const titleSeparator = "•";
+const titleSeparator = "-";
 const siteTitle = `${title} ${titleSeparator} ${siteMeta.title}`;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
