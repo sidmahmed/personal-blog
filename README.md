@@ -23,7 +23,7 @@
 
 ## Adding posts
 
-Adding a post is a simple as adding your .mdx file(s) to the `src/pages/posts/` folder, the name of which will be used as the slug/url. The two posts included with this template can be modified, and give you an example of how to structure your posts. [Astro docs](https://docs.astro.build/en/guides/markdown-content/) also has a detailed section on markdown pages.
+Adding a post is a simple as adding your .mdx file(s) to the `src/pages/posts/` folder, the name of which will be used as the slug/url. 
 
 ### Frontmatter
 
